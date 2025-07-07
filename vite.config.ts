@@ -7,4 +7,4 @@ export default defineConfig({
 })
 
 // src/config.ts
-export const WEBHOOK = 'https://primary-production-7688.up.railway.app/webhook/mb-send-group-messages';
+export const WEBHOOK = 'https://primary-production-7688.up.railway.app/webhook/send-group-messages';
